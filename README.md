@@ -1,5 +1,7 @@
 # Crop Recommendation using Intel One API XGBoost Regressor
 
+![dataset-cover](https://user-images.githubusercontent.com/111365771/224358048-d6e5f81d-0ebc-421c-824f-fe6d1c12478d.jpg)
+
 ## Introduction
 
 This project uses the Intel One API XGBoost regressor to predict crop yield based on environmental factors. The dataset used for this project is obtained from Kaggle, and includes data on the soil type, temperature, humidity, rainfall, pH value, and other environmental factors for various regions in India.
