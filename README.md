@@ -9,9 +9,15 @@ XGBoost is an open-source machine learning library that is widely used for build
 Intel One API is a unified programming model that simplifies the development of high-performance applications across diverse architectures, including CPUs, GPUs, and FPGAs. It allows developers to write code that can automatically take advantage of the hardware features available on a particular platform, without requiring them to write separate code paths for each architecture.
 
 ## OneAPI
+
+![download](https://user-images.githubusercontent.com/111365771/224359038-89b7328b-a78b-4381-a7eb-7698ea9df1c0.jpg)
+
 In this project, we use the Intel One API implementation of XGBoost to train a regression model that can predict crop yield based on environmental factors. We leverage the performance and scalability features provided by OneAPI to train the model on multiple cores or a GPU, depending on the hardware resources available.
 
 ## Models Used
+
+![5525447_1593423035_XG](https://user-images.githubusercontent.com/111365771/224358965-41ecc069-c2ff-4bf9-b817-73fa0f65c96d.jpg)
+
 We use the XGBoost regressor for this project, which is a gradient boosting algorithm that uses decision trees as base models. XGBoost is known for its speed and accuracy, and has been widely used in industry and academia.
 
 ## Methods and Materials
